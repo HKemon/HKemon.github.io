@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: /about/
+    url: https://hkemon.github.io/about/
   - title: "Hibernate"
     url: /hibernate/
   # - title: "About"
